@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saif Tamboli. Welcome to my Github page!
+# 👋Hi there, Welcome to my Github page!
 
 I'm a Data Enthusiast skilled in **Power BI, SQL, and Excel**, having 1.5 years of experience working as a Data Research Analyst in the financial research domain.
 Focused on building insightful dashboards and clean visual stories with real data.
