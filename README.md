@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Saif Tamboli. Welcome to my Github page!
 
-<!--
-**saiftamboli/saiftamboli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Enthusiast skilled in **Power BI, SQL, and Excel**, having 1.5 years of experience working as a Data Research Analyst in the financial research domain.
+Focused on building insightful dashboards and clean visual stories with real data.
+Checkout my GitHub repositories on System Design, Low Level Design, Leetcode and Behavioral interviews.
+Follow me on LinkedIn and X to stay updated.
+### 🔧 Tools & Technologies
+- Power BI (DAX, Visuals, Report Design)
+- SQL (Joins, CTEs, Aggregations)
+- Excel (Pivot Tables, Charts)
+- Tableau, Python, Figma.
+- Git & GitHub
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
+- 📧 saif@email.com (replace with your email)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [My Portfolio](https://saiftamboli.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Turning raw data into meaningful stories."
