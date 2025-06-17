@@ -16,4 +16,12 @@ Follow me on LinkedIn and X to stay updated.
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🌐 [My Portfolio](https://saiftamboli.github.io)
 
+
+👀 I’m interested in Data Science and Analytics
+🌱 I’m currently learning Python.
+💼 Skilled in Sql, Power bi and excel
+📫 How to reach me https://www.linkedin.com/in/saif-tamboli/
+📧 tambolisaif13@gmail.com
+💼 Have a look at my portfolio https://saiftamboli.github.io/
+
 > "Turning raw data into meaningful stories."
